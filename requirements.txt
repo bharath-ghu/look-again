@@ -1,0 +1,3 @@
+qai-hub-models[yolov7]
+opencv-python
+numpy
